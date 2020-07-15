@@ -1,0 +1,5 @@
+".\Objects\I2C.obj",
+".\Objects\main.obj",
+".\Objects\OLED.obj" 
+TO ".\Objects\OLED" 
+PRINT(".\Listings\OLED.m51") RAMSIZE(256) 
